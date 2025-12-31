@@ -1,4 +1,4 @@
-# hemoprotein_biocatalysts_design
+# Hemoprotein Biocatalysts Design
 The repository for the Nature Communications paper "Computational Design of Generalist Cyclopropanases with Stereodivergent Selectivity".
 
 This repository implements a **Rosetta / PyRosetta–based enzyme design workflow** developed for **heme-dependent biocatalysts**, with a focus on:
